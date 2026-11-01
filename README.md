@@ -9,13 +9,13 @@
 ### Multi-agent workflow · 让多个 AI 按工程规则协作
 
 <p align="center">
-  <img src="assets/claude.png" width="48" height="48" alt="Claude" title="Claude">
+  <img src="assets/claude.png" width="96" height="96" alt="Claude" title="Claude">
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/codex.png" width="48" height="48" alt="Codex" title="Codex">
+  <img src="assets/codex.png" width="96" height="96" alt="Codex" title="Codex">
   &nbsp;&nbsp;&nbsp;
-  <img src="assets/gemini.png" width="48" height="48" alt="Gemini" title="Gemini">
+  <img src="assets/gemini.png" width="96" height="96" alt="Gemini" title="Gemini">
   &nbsp;&nbsp;&nbsp;
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/grok-dark.png"><img src="assets/grok-light.png" width="48" height="48" alt="Grok" title="Grok"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/grok-dark.png"><img src="assets/grok-light.png" width="96" height="96" alt="Grok" title="Grok"></picture>
   <br>
   <sub>Claude · Codex · Gemini · Grok</sub>
 </p>
