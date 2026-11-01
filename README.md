@@ -1,6 +1,6 @@
 <!-- Claude 2026-11-01: 内容照搬 api-cloud.cc 首页，各节"详细内容"跳转博客 -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=200&section=header&text=Pitt%20%7C%20AI%20FDE&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI-Native%20Engineering%20%26%20Enterprise%20AI%20Transformation&descAlignY=58&descSize=18" width="100%" alt="Pitt | AI FDE">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=200&section=header&text=Pitt%20%7C%20AI%20FDE&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=AI-Native%20Engineering%20%C2%B7%20Enterprise%20AI%20Transformation&descAlignY=58&descSize=18" width="100%" alt="Pitt | AI FDE">
 </p>
 
 <p align="center">
@@ -17,6 +17,8 @@
 - 🏭 制造企业销售数字化平台：1.0 演示 → 2.0 验收 → **3.0 生产部署推进中**
 - 📝 我的博客：[api-cloud.cc](https://api-cloud.cc) · [关于我](https://api-cloud.cc/about.html)
 
+<br><br>
+
 ## ✨ 关注方向
 
 ![AI FDE](https://img.shields.io/badge/AI_FDE-0EA5E9?style=for-the-badge)
@@ -25,6 +27,8 @@
 ![知识库 + MCP](https://img.shields.io/badge/知识库_+_MCP-F59E0B?style=for-the-badge)
 ![基础设施与 SRE](https://img.shields.io/badge/基础设施与_SRE-EF4444?style=for-the-badge)
 ![安全与治理](https://img.shields.io/badge/安全与治理-64748B?style=for-the-badge)
+
+<br><br>
 
 ## ✨ 我如何推动企业 AI 落地
 
@@ -37,7 +41,11 @@
 | 🔐 | **安全、数据与 AI 治理** | 访问控制、知识资产、模型路由与审计的工程化设计 |
 | 🚀 | **业务系统与工程交付** | 从业务需求、交互验证到可持续演进的软件架构 |
 
+<br>
+
 👉 [详细内容](https://api-cloud.cc/#what-i-build)
+
+<br><br>
 
 ## ✨ 核心业务实战：传统制造企业销售数字化平台
 
@@ -58,7 +66,11 @@ flowchart LR
 ![工作流与角色权限](https://img.shields.io/badge/工作流与角色权限-1E293B?style=flat-square)
 ![Django / Vue](https://img.shields.io/badge/Django_/_Vue_技术路线-1E293B?style=flat-square)
 
+<br>
+
 👉 [详细内容](https://api-cloud.cc/#featured-case) · [完整案例](https://api-cloud.cc/case-studies.html)
+
+<br><br>
 
 ## ✨ 让多个 AI 按工程规则协作
 
@@ -81,7 +93,11 @@ flowchart LR
     A["01 需求与规则确认"] --> B["02 架构与任务卡"] --> C["03 多 Agent 实施"] --> D["04 交叉复核与门禁"] --> E["05 测试证据与人工验收"]
 ```
 
+<br>
+
 👉 [详细内容](https://api-cloud.cc/#delivery-engine)
+
+<br><br>
 
 ## ✨ 运行中的 AI 与基础设施实践
 
@@ -98,7 +114,11 @@ flowchart LR
 
 <a href="https://www.youtube.com/watch?v=l67ilza4aGk"><img src="assets/demo-poster.jpg" width="560" alt="gemini-mcp-docs-agent 演示视频"></a>
 
+<br>
+
 👉 [详细内容](https://api-cloud.cc/#running-systems) · [K8S 可观察平台](https://api-cloud.cc/k8s-observability.html)
+
+<br><br>
 
 ## ✨ 十余年的工程底座
 
@@ -115,7 +135,11 @@ Linux、网络、安全、云原生和 SRE 可观测性，为 AI 应用提供部
 ![nftables](https://img.shields.io/badge/nftables-334155?style=for-the-badge&logo=linux&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-111827?style=for-the-badge&logo=anthropic&logoColor=white)
 
+<br>
+
 👉 [浏览经典工程案例](https://api-cloud.cc/case-studies.html)
+
+<br><br>
 
 ## ✨ 技术文章与工程思考
 
@@ -131,13 +155,19 @@ Linux、网络、安全、云原生和 SRE 可观测性，为 AI 应用提供部
 - ⏳ [记录 Codex 的一次"时空穿越"](https://api-cloud.cc/blog-codex-temporal-resurrection.html)
 - ⚔️ [最荒诞的江湖：名门正派还在论剑，散人已经布下了诛仙阵](https://api-cloud.cc/blog-wuxia-ai-jianghu.html)
 
+<br>
+
 👉 [全部文章](https://api-cloud.cc/#writing)
+
+<br><br>
 
 ## ✨ GitHub Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pittzhang20260507&theme=tokyonight&hide_border=true" alt="GitHub streak">
 </p>
+
+<br><br>
 
 ## 📫 联系我
 
